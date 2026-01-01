@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+*.vs*
+*.nupkg
+*.bak
+*.tmp
+*.log
+Thumbs.db
+*.cache
+*.pdb
